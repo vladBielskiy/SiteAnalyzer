@@ -379,7 +379,7 @@
                   <svg class="icon icon--post-info-hits" aria-hidden="true">
                    <use xlink:href="/sapper/assets/icons/post-info.svg?v=20#icon-hits"></use>
                   </svg>
-                 </div></span> <span class="post-meta-panel__value">135827</span> <span class="post-meta-panel__label">views</span></li> 
+                 </div></span> <span class="post-meta-panel__value">135833</span> <span class="post-meta-panel__label">views</span></li> 
                <li class="post-meta-panel__item post-meta-panel__comments"><a class="post-meta-panel__link" href="https://javarush.ru/groups/posts/593-bufferedreader-i-bufferedwritter#discussion"><span class="post-meta-panel__icon">
                   <div class="icon-wrap">
                    <svg class="icon icon--common-comments" aria-hidden="true">
@@ -1313,7 +1313,7 @@ public class ConsoleReaderExample {
                 <svg class="icon icon--post-info-hits" aria-hidden="true">
                  <use xlink:href="/sapper/assets/icons/post-info.svg?v=20#icon-hits"></use>
                 </svg>
-               </div></span> <span class="post-meta-panel__value">135827</span> <span class="post-meta-panel__label">views</span></li> 
+               </div></span> <span class="post-meta-panel__value">135833</span> <span class="post-meta-panel__label">views</span></li> 
              <li class="post-meta-panel__item post-meta-panel__comments"><a class="post-meta-panel__link" href="https://javarush.ru/groups/posts/593-bufferedreader-i-bufferedwritter#discussion"><span class="post-meta-panel__icon">
                 <div class="icon-wrap">
                  <svg class="icon icon--common-comments" aria-hidden="true">
@@ -3353,7 +3353,7 @@ public class ConsoleReaderExample {
                <svg class="icon icon--post-info-hits" aria-hidden="true">
                 <use xlink:href="/sapper/assets/icons/post-info.svg?v=20#icon-hits"></use>
                </svg>
-              </div></span> <span class="post-meta-panel__value">135827</span> <span class="post-meta-panel__label">views</span></li> 
+              </div></span> <span class="post-meta-panel__value">135833</span> <span class="post-meta-panel__label">views</span></li> 
             <li class="post-meta-panel__item post-meta-panel__comments"><a class="post-meta-panel__link" href="https://javarush.ru/groups/posts/593-bufferedreader-i-bufferedwritter#discussion"><span class="post-meta-panel__icon">
                <div class="icon-wrap">
                 <svg class="icon icon--common-comments" aria-hidden="true">
@@ -4043,7 +4043,7 @@ public class ConsoleReaderExample {
               <svg class="icon icon--post-info-hits" aria-hidden="true">
                <use xlink:href="/sapper/assets/icons/post-info.svg?v=20#icon-hits"></use>
               </svg>
-             </div></span> <span class="post-meta-panel__value">135827</span> <span class="post-meta-panel__label">views</span></li> 
+             </div></span> <span class="post-meta-panel__value">135833</span> <span class="post-meta-panel__label">views</span></li> 
            <li class="post-meta-panel__item post-meta-panel__comments"><a class="post-meta-panel__link" href="https://javarush.ru/groups/posts/593-bufferedreader-i-bufferedwritter#discussion"><span class="post-meta-panel__icon">
               <div class="icon-wrap">
                <svg class="icon icon--common-comments" aria-hidden="true">
@@ -4731,7 +4731,7 @@ public class ConsoleReaderExample {
              <svg class="icon icon--post-info-hits" aria-hidden="true">
               <use xlink:href="/sapper/assets/icons/post-info.svg?v=20#icon-hits"></use>
              </svg>
-            </div></span> <span class="post-meta-panel__value">135827</span> <span class="post-meta-panel__label">views</span></li> 
+            </div></span> <span class="post-meta-panel__value">135833</span> <span class="post-meta-panel__label">views</span></li> 
           <li class="post-meta-panel__item post-meta-panel__comments"><a class="post-meta-panel__link" href="https://javarush.ru/groups/posts/593-bufferedreader-i-bufferedwritter#discussion"><span class="post-meta-panel__icon">
              <div class="icon-wrap">
               <svg class="icon icon--common-comments" aria-hidden="true">
@@ -5680,7 +5680,7 @@ public class ConsoleReaderExample {
             <svg class="icon icon--post-info-hits" aria-hidden="true">
              <use xlink:href="/sapper/assets/icons/post-info.svg?v=20#icon-hits"></use>
             </svg>
-           </div></span> <span class="post-meta-panel__value">135827</span> <span class="post-meta-panel__label">views</span></li> 
+           </div></span> <span class="post-meta-panel__value">135833</span> <span class="post-meta-panel__label">views</span></li> 
          <li class="post-meta-panel__item post-meta-panel__comments"><a class="post-meta-panel__link" href="https://javarush.ru/groups/posts/593-bufferedreader-i-bufferedwritter#discussion"><span class="post-meta-panel__icon">
             <div class="icon-wrap">
              <svg class="icon icon--common-comments" aria-hidden="true">
@@ -6134,7 +6134,7 @@ public class ConsoleReaderExample {
            <svg class="icon icon--post-info-hits" aria-hidden="true">
             <use xlink:href="/sapper/assets/icons/post-info.svg?v=20#icon-hits"></use>
            </svg>
-          </div></span> <span class="post-meta-panel__value">135827</span> <span class="post-meta-panel__label">views</span></li> 
+          </div></span> <span class="post-meta-panel__value">135833</span> <span class="post-meta-panel__label">views</span></li> 
         <li class="post-meta-panel__item post-meta-panel__comments"><a class="post-meta-panel__link" href="https://javarush.ru/groups/posts/593-bufferedreader-i-bufferedwritter#discussion"><span class="post-meta-panel__icon">
            <div class="icon-wrap">
             <svg class="icon icon--common-comments" aria-hidden="true">
@@ -6592,7 +6592,7 @@ public class ConsoleReaderExample {
           <svg class="icon icon--post-info-hits" aria-hidden="true">
            <use xlink:href="/sapper/assets/icons/post-info.svg?v=20#icon-hits"></use>
           </svg>
-         </div></span> <span class="post-meta-panel__value">135827</span> <span class="post-meta-panel__label">views</span></li> 
+         </div></span> <span class="post-meta-panel__value">135833</span> <span class="post-meta-panel__label">views</span></li> 
        <li class="post-meta-panel__item post-meta-panel__comments"><a class="post-meta-panel__link" href="https://javarush.ru/groups/posts/593-bufferedreader-i-bufferedwritter#discussion"><span class="post-meta-panel__icon">
           <div class="icon-wrap">
            <svg class="icon icon--common-comments" aria-hidden="true">
@@ -7033,7 +7033,7 @@ public class ConsoleReaderExample {
         <svg class="icon icon--post-info-hits" aria-hidden="true">
          <use xlink:href="/sapper/assets/icons/post-info.svg?v=20#icon-hits"></use>
         </svg>
-       </div></span> <span class="post-meta-panel__value">135827</span> <span class="post-meta-panel__label">views</span></li> 
+       </div></span> <span class="post-meta-panel__value">135833</span> <span class="post-meta-panel__label">views</span></li> 
      <li class="post-meta-panel__item post-meta-panel__comments"><a class="post-meta-panel__link" href="https://javarush.ru/groups/posts/593-bufferedreader-i-bufferedwritter#discussion"><span class="post-meta-panel__icon">
         <div class="icon-wrap">
          <svg class="icon icon--common-comments" aria-hidden="true">
@@ -7091,7 +7091,7 @@ public class ConsoleReaderExample {
        <svg class="icon icon--post-info-hits" aria-hidden="true">
         <use xlink:href="/sapper/assets/icons/post-info.svg?v=20#icon-hits"></use>
        </svg>
-      </div></span> <span class="post-meta-panel__value">135827</span> <span class="post-meta-panel__label">views</span></li> 
+      </div></span> <span class="post-meta-panel__value">135833</span> <span class="post-meta-panel__label">views</span></li> 
     <li class="post-meta-panel__item post-meta-panel__comments"><a class="post-meta-panel__link" href="https://javarush.ru/groups/posts/593-bufferedreader-i-bufferedwritter#discussion"><span class="post-meta-panel__icon">
        <div class="icon-wrap">
         <svg class="icon icon--common-comments" aria-hidden="true">
@@ -7165,7 +7165,7 @@ public class ConsoleReaderExample {
       <svg class="icon icon--post-info-hits" aria-hidden="true">
        <use xlink:href="/sapper/assets/icons/post-info.svg?v=20#icon-hits"></use>
       </svg>
-     </div></span> <span class="post-meta-panel__value">135827</span> <span class="post-meta-panel__label">views</span></li> 
+     </div></span> <span class="post-meta-panel__value">135833</span> <span class="post-meta-panel__label">views</span></li> 
    <li class="post-meta-panel__item post-meta-panel__comments"><a class="post-meta-panel__link" href="https://javarush.ru/groups/posts/593-bufferedreader-i-bufferedwritter#discussion"><span class="post-meta-panel__icon">
       <div class="icon-wrap">
        <svg class="icon icon--common-comments" aria-hidden="true">
@@ -7199,7 +7199,7 @@ public class ConsoleReaderExample {
      <svg class="icon icon--post-info-hits" aria-hidden="true">
       <use xlink:href="/sapper/assets/icons/post-info.svg?v=20#icon-hits"></use>
      </svg>
-    </div></span> <span class="post-meta-panel__value">135827</span> <span class="post-meta-panel__label">views</span></li> 
+    </div></span> <span class="post-meta-panel__value">135833</span> <span class="post-meta-panel__label">views</span></li> 
   <li class="post-meta-panel__item post-meta-panel__comments"><a class="post-meta-panel__link" href="https://javarush.ru/groups/posts/593-bufferedreader-i-bufferedwritter#discussion"><span class="post-meta-panel__icon">
      <div class="icon-wrap">
       <svg class="icon icon--common-comments" aria-hidden="true">
