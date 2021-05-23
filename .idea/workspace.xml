@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6121a547-7008-404c-9f6f-201db9f29d4c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1swBpW3XfOYGhm4ZZLY1GmCE36F" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SiteWritter" />
+      <module name="SiteAnalyzer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state x="828" y="175" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621774828231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="175" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621774828231" />
+    <state x="1245" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1621776070120">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1245" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1621776070120" />
+    <state x="1103" y="322" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1621774826319">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="322" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621774826319" />
+    <state x="1223" y="385" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1621777995580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1223" y="385" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1621777995580" />
+    <state width="1877" height="160" key="GridCell.Tab.0.bottom" timestamp="1621778714803">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="160" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621778714803" />
+    <state width="1877" height="160" key="GridCell.Tab.0.center" timestamp="1621778714802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="160" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621778714802" />
+    <state width="1877" height="160" key="GridCell.Tab.0.left" timestamp="1621778714802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="160" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621778714802" />
+    <state width="1877" height="160" key="GridCell.Tab.0.right" timestamp="1621778714803">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="160" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621778714803" />
+    <state x="880" y="94" key="SettingsEditor" timestamp="1621775697139">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="880" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1621775697139" />
+    <state x="1103" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1621775596556">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1621775596556" />
+  </component>
+</project>
